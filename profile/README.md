@@ -10,11 +10,14 @@ Every PVR set is selected and mixed on vinyl—deep cuts, worldwide rhythms, and
 
 - **Analog experiences** — gatherings designed for close listening, conversation, and discovery.
 - **A living record library** — music chosen with care and shared in the rooms where it belongs.
+- **[PVR Website](https://github.com/Public-Vinyl-Radio/website)** — our public Gatsby platform for the shop, event management, recaps, and everything happening at PVR.
 - **[Groovenet](https://github.com/Public-Vinyl-Radio/groovenet)** — our tool for managing the PVR vinyl library and creating playlists that make our workflow smoother.
 
 ## Find us
 
 - [Public Vinyl Radio](https://publicvinylradio.com)
 - [Upcoming events & recaps](https://publicvinylradio.com)
+- [Instagram](https://www.instagram.com/publicvinylradio)
+- [YouTube](https://www.youtube.com/@PublicVinylRadio)
 
 Seattle, WA · Est. 2025
